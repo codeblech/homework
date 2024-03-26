@@ -1,4 +1,4 @@
-# homework
+# Homework
 I wrote this code back in 2020. The goal was to get search results for all questions in holiday homework pdfs. Back then, there were no LLMs to do such homework tasks, so google results were pretty much the best I could do.
 
 ## Usage

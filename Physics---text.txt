@@ -1,0 +1,405 @@
+﻿1. One end of a copper wire is connected to a neutral pith ball and other end to a negatively charged plastic rod. What will be the charge acquired by a pitch ball?
+
+2. Two metallic spheres having same shape and size, but one of Cu and other of Al, are both
+placed in an identical electric field. In which metallic sphere will more charge be induced?
+
+3. What causes the charging of an object?
+
+4. What is the cause of quantisation of electric charge?
+
+5. If a body contains ni electrons and nz protons, then what will be the total amount of charge on the body?
+
+6. Is the force acting between two point electric charges qi and qz kept at some distance
+apart in air, attractive or repulsive when (i) q1q2 > 0 (ii) q1q2 < 0?
+
+7. The force on an electron kept in an electric field in a particular direction is F. What will be the magnitude and direction of the force experienced by a proton kept at the same point in the field? Mass of the proton is about 1836 times the mass of the electron.
+
+8. How does the coulomb force between two point charges depend upon the dielectric
+constant of the intervening medium?
+
+9. Two insulated charged copper spheres A and B of identical size have charges qa and qe
+respectively. A third sphere C of the same size but uncharged is brought in contact with the
+first and then in contact with the second and finally removed from both. What are the new
+charges on A and B?
+
+10. Draw the electric field lines due to a point charge (i) Q > 0 and (ii) Q<0
+
+11. Define the term electric flux. Write its SI unit.
+
+12. Define the term electric dipole moment. Is it a scalar or a vector quantity?
+
+13. What does q1 + q2 = O signify?
+
+14. What is the value of |Eax/Eaq| for a short electric dipole?
+
+15. If F is the magnitude of force experienced by a unit charge placed at a distance of 1 cm
+from an infinitely large charged sheet, then what will be the force experienced by the same
+charge placed at a distance of 2 cm from the same sheet?
+
+16. What is the direction of net force on electric dipole, placed in a non-uniform electric field?
+
+17. When does an electric dipole placed in a non-uniform electric field experience a zero torque
+but non-zero force?
+
+18. What is a Gaussian surface?
+
+19. Draw the electric field lines if (i) a point charge + q is placed at the centre (ii) a point charge
++ qis placed at a distance R/2 from the centre.
+
+20. Work done in taking an electron around a proton in a circular loop is zero. Should the proton
+necessarily be at the centre of the circular loop?
+
+21. While defining the electrostatic potential energy, why do we bring a unit positive charge
+from infinity?
+
+22. What is the work done in moving a test charge q through a distance of 1 cm along the
+equatorial axis of an electric dipole?
+
+23. A metal sphere is surrounded by an uncharged concentric thin spherical shell with a charge
+q and the potential difference between them is V. What is the new potential difference
+between them, if the shell is now given an additional charge q?
+
+24. Why is electrostatic potential constant throughout the volume of the conductor and has the same value (as inside) on its surface?
+
+25. A and B are two conducting spheres of the same radius, A being solid and B hollow. Both
+
+are charged to the same potential. What will be the relation between the charges on the two
+spheres?
+
+26. If a point charge +q is taken first from A to C and then from C to B of acircle drawn with another point charge +q at centre, then along which path more work will be done?
+
+27. A uniform electric field E exists between two charged plates as shown in figure. What
+would be the work done in moving a charge q along the closed rectangular path ABCDA?
+
+28. What is the geometrical shape of equipotential surfaces due to a single isolated charge?
+
+29. Why is there no work done in moving a charge from one point to another on an
+equipotential surface?
+
+30. Can two equipotential surfaces intersect each other? Justify your answer.
+
+31. Why does the electric field inside a dielectric decrease when it is placed in an external
+electric field?
+
+32. A point charge Q is placed at point O as shown in the figure. Is the potential difference Va —Vb positive, negative or zero, if Q is (i) positive (ii) negative?
+
+33. Figure given below shows three points A, B and C in a uniform electrostatic field. At which
+of the points will the electric potential be maximum?
+
+34. Why is the potential inside a hollow spherical charged conductor constant and has the
+same value as onits surface?
+
+35. A charge q is moved from a point A above dipole of dipole moment P to a point B below the
+dipole in equatorial plane without acceleration. Find the work done in the process.
+
+36. If the plates of a charged capacitor be suddenly connected to each other by a wire, what
+will happen?
+
+37. A metal plate is introduced between the plates of a charged parallel plate capacitor. What is its effect on the capacitance of the capacitor?
+
+38. The following graph shows the variation of charge Q, with voltage V, for two capacitors
+and L. In which capacitor is more electrostatic energy stored? v
+
+39. Plot a graph showing the variation of resistance of a conducting wire as a function of its radius, keeping the length of the wire and its temperature as constant.
+
+40. V-I graph for a metallic wire at two different temperatures T: and T2is as shown in the
+figure. Which of the two temperatures is higher and why?
+
+41. State the condition for maximum current to be drawn from a cell.
+
+42. State the condition under which the terminal potential difference across a battery and its
+emf are equal.
+
+43. Graph showing the variation of current versus voltage for a material GaAs is shown in the
+figure. Identify the region of
+(i) negative resistance,
+
+(ii) where Ohm’s law is obeyed.
+
+44. A steady current flow in a metallic conductor of non-uniform cross-section. Which of these
+quantities is constant along the conductor: current, current density, drift speed and electric
+field?
+
+45. The electron drift arises due to the force experienced by electrons in the electric field inside
+the conductor. But force should cause acceleration. Why then do the electrons acquire a
+steady average drift speed?
+
+46. Out of V - I graph for parallel and series combination of two metallic resistors, which one
+represents parallel combination of resistors? Justify your answer.
+
+47. Sketch a graph showing variation of resistivity of carbon with temperature.
+
+48. In a medium the force of attraction between two-point electric charges, distance d apart is F. What distance apart should these be kept in the same medium so that the force between
+them becomes (i) 3F (ii)F/3
+
+49. A charge q is placed at the centre of the line joining two equal charges Q. Show that the
+system of three charges will be in equilibrium if q = — Q/4.
+
+50. Two fixed point charges + 4 e and + e units are separated by a distance ‘a’. Where should
+the third point charge be placed for it to be in equilibrium?
+
+51. An oil drop of mass m and charge — q is to be held stationary in the gravitational field of the
+earth. What is the magnitude and direction of the electrostatic field required for this
+purpose?
+
+52. Figure shows two large metal plates, Pi and Pa, tightly held against each other and placed between two equal and unlike point charges perpendicular to the line joining them.
+(i) What will happen to the plates when they are released?
+(ii) Draw the pattern of the electric field lines for the system.
+
+
+
+53. Sketch the electric field lines for the following system of charges. “e+
+
+54. Define electric field intensity. Write its SI unit. Write the magnitude and direction of electric
+field intensity due to an electric dipole of length 2a at the mid-point of the line joining the
+two charges.
+
+55. Two small balls with equal positive charges q coulomb are suspended by two insulating
+strings of equal length | metre from a hook fixed to a stand. The whole set up is taken in a
+satellite into space where there is no gravity. Find the angle between the strings and
+tension (T) in each string.
+
+56. A point charge Q is at the centre of a conducting shell and another charge q is outside the
+shell. Now, answer the following:
+
+(a) Does the charge Q experience a force?
+
+(b) Does the charge q experience a force? Explain.
+
+57. S1 and S2 are two hollow concentric spheres enclosing charge Q and 2Q respectively as
+shown in figure.
+
+(i) What is the ratio of the electric flux through S1 and S2?
+
+(ii) How will the electric flux through the sphere S1 change, if a medium of dielectric constant 5 is introduced in the space inside S: in place of air?
+
+
+58. Derive the expression for the electric potential at any point along the axial line of an electric
+dipole?
+
+59. Two spherical conductors A and B of radii ra and re (ra > rs) are given equal amounts of
+charge. In which direction will the charge flow when these spheres are brought in contact?
+Give reason for your answer.
+
+60. Why are equipotential surfaces perpendicular to field lines?
+
+61. Derive the expression for the capacitance of a parallel plate capacitor having plate area A
+and plate separation d.
+
+62. Draw equipotential surfaces and corresponding electric field lines for the: (i) single point
+charge q < 0 and (ii) uniform electric field.
+
+63. The given graph shows that variation of charge q versus potential difference V for two
+capacitors C1 and C2 . The two capacitors have same plate separation but the plate area of
+C2 is double than that of C1 . Which of the lines in the graph correspond to C1 and C2 and
+
+64. Two identical parallel plates (air) capacitors C1 and C2 have capacitances C each. The
+space between their plates is now filled with dielectrics as shown. If the two capacitors still
+have equal capacitance, obtain the relation between dielectric constants K, K1 and K2 .
+
+65. You are given an air-filled parallel plate capacitor C1 . The space between its plates is now filled with slabs of dielectric constants K1 and K2 as shown in C2 . Find the capacitance of the capacitor C2 if area of the plates is A and distance between the plates is d.
+
+66. There is a point charge Q at a distance ? from the centre of a circle of radius R. Another point charge q is to be moved from A to B, where A and B are two points on the circle diametrically opposite to each other. How much work is done by the electrostatic force exerted by Q on q?
+
+67. Can we create an electric field in which all the lines of force are parallel but their density
+increases continuously in a direction perpendicular to the lines of force?
+
+68. Figure shows a sheet of aluminium foil of negligible thickness placed between the plates of
+a capacitor. How will its capacitance be affected if (i) the foil is electrically insulated and (ii)
+the foil is connected to the upper plate with a conducting wire?
+
+69. Let two conducting spheres of radii r: and rz be joined by a thin wire and a total charge q be
+given to them. Prove that the charges on the spheres will be in the ratio of their radii.
+
+70. The energy of a capacitor varying with its capacitance is shown by two graphs (i) and (ii).
+Find in which of the graphs: (a) charge is constant, and (b) potential difference is constant.
+
+
+
+71. A graph is drawn between some physical quantity x and r as shown below, where r is the
+distance from the centre of a charged conducting sphere.
+
+Now answer the following:
+
+(a) Name the physical quantity x.
+(b) At what point electric field is (i) maximum, and (ii) minimum? i—>
+
+72. Calculate the resistance across the points M and N in the given figure.
+
+73. A uniform wire of resistance R ohm is bent into a circular loop as shown in the figure.
+Compute effective resistance between diametrically opposite points A and B.
+
+74. Name two factors on which the resistivity of a given material depends. A carbon resistor
+has a value of 62 kQ with a tolerance of 5%. Give the colour code for the resistor.
+
+75. A hemispherical surface lies as shown in an uniform electric field region. Find the net
+electric flux through the curved surface if electric field is
+(a) along x-axis, and
+(b) along y-axis.
+
+76. State Gauss’s law in electrostatics. A cube with each side ais kept in an electric field given by = = Cx (as is shown in the figure) where C is
+a positive dimensional constant. Find out
+
+(i) the electric flux through the cube, and
+
+(ii) the net charge inside the cube
+
+77. Using Gauss’s theorem, deduce an expression for the electric field intensity at any point due to a thin, infinitely long wire of charge/length A C/m.
+
+78. Using Gauss’s theorem, show mathematically that for any point outside the shell, the field
+due to a uniformly charged thin spherical shell is the same as if the
+entire charge of the shell is concentrated at the centre. Why do you expect the electric field
+inside the shell to be zero according to this theorem?
+
+79. A thin conducting spherical shell of radius R has charge Q spread uniformly over its
+surface. Using Gauss’s law, derive an expression for an electric field at a point outside the
+shell.
+Draw a graph of electric field E(r) with distance r from the centre of theshell for 0 < r < infinity.
+
+80. (a) A point charge (+Q) is kept in the vicinity of uncharged conducting plate. Sketch electric field lines between the charge and the plate.
+(b) Two infinitely large plane thin parallel sheets having surface charge densities σ1 and σ2 (σ1 > σ2) are shown in the figure. Write the magnitudes and directions of net fields in the regions marked II and Ill.
+
+
+81. Three charges Q1, Q2 and Q3; are placed inside and outside a closed Gaussian surface as
+shown in the figure.
+
+Answer the following:
+
+(a) Which charges contribute to the electric field at any point on the Gaussian surface?
+(b) Which charges contribute to the net flux through this surface?
+(c) If Q1 = —Q2, will electric field on the surface be zero?
+
+82. Two identical point charges Q are kept at a distance r from each other. A third point charge
+is placed on the line joining the above two charges such that all the three charges are in
+equilibrium. What is the magnitude, sign and position of the third charge?
+
+83. An uncharged comb after combing hair, when brought near the paper bits attracts them.
+Answer the following:
+(a) Does the mass of comb/paper bit get changed?
+(b) Is paper bit still uncharged?
+(c) What is the difference between the charging of a comb and the charging of the paper bits?
+
+84. A thin metallic spherical shell of radius R carries a charge Q on its surface. A point charge Q/2 is placed at its centre
+C and an other charge +2Q is placed outside the shell at a distance x from the centre as
+shown in figure. Find 
+(i) the force on the charge at the centre of shell and at the point A, 
+(ii)the electric flux hel the shell.
+
+85. Three concentric metallic shells A, B and C of radii a, b and c (a< b<c) have surface
+charge densities + 6, â€”- o and + o respectively as shown in the figure
+If shells A and C are at the same potential, then obtain the relation between the radii a, b,c
+86. Deduce an expression for the electric potential due to an electric dipole at any point on its axis. Mention one contrasting feature of electric potential of a dipole at a point as
+compared to that due to a single charge.
+
+
+87. Four charges +q, —q, +q and —q are to be arranged respectively at the four corners of a
+square ABCD of side a. (a) Find the work required to put together this arrangement. (b) A
+charge q0 is bought to the centre of the square, the four charges being held fixed. How
+much extra work is needed to do this?
+
+88. Calculate the electrostatic potential energy of a system of three point charges q1, q2 and q3 located respectively at r1, r2, and r3 with respect to a common origin O.
+
+
+89. A conducting slab of thickness t is introduced without touching between the plates of a
+parallel plate capacitor, separated by a distance d (t < d). Derive an expression for the
+capacitance of the capacitor.
+
+90. Find the ratio of the potential differences that must be applied across the parallel and the series combination of two capacitors C. and C2 with their capacitances in the ratio 1: 2 so that the energy stored in the two cases, becomes the same.
+
+91. Five identical horizontal square metal plates each of area A are placed at a distance d apart in air and connected to the terminals A and B as shown in the figures (a) and (b). Find the effective capacitance between the two terminals A and B.
+
+
+92. Figures (i) and (ii) show the field lines of the positive and negative point charges
+respectively. (a) Give the signs of the potential difference Vp — Va, Va — Va. (b) Give the sign of the potential energy difference of a small negative charge between the points Q and P, A and B. (c) Give the sign of the work done by the field in moving a small positive charge from
+Q to P. (d) Give the sign of the work done by the external agency in moving a small negative
+charge from B to A. (e) Does the kinetic energy of a small negative charge increase or decrease in going from B to A? (ii)
+
+93. A charge Q is distributed over two concentric hollow spheres of radii r and R (R > r)
+respectively, such that their surface densities of charges are equal. Find the potential at the common centre.
+
+
+
+94. (a) Deduce the expression for the torque acting on a dipole of dipole moment ? in the
+presence of a uniform electric field
+
+(b) Consider two hollow concentric spheres, S1 and S2, enclosing charges 2Q and 4Q
+respectively as shown in the figure.
+(i) Find out the ratio of the electric flux through them.
+(ii) How will the electric flux through the sphere S: change if a medium of dielectric
+constant ‘e;’ is introduced in the space inside S; in place of air? Deduce the necessary
+expression.
+
+
+95. (a) Two isolated metal spheres A and B have radii R and 2R respectively, and same charge
+q. Find which of the two spheres have greater: (i) capacitance and (ii) energy density just
+outside the surface of the spheres. (b) (i) Show that the equipotential surfaces are closed
+together in the regions of strong field and far apart in the regions of weak field. Draw
+equipotential surfaces for an electric dipole. (ii) Concentric equipotential surfaces due to a charged body placed at the centre are shown. Identify the polarity of the charge and draw the electric field lines due to it.
+
+96. Derive the expression for the energy stored in a parallel plate capacitor of capacitance C with air as medium between its plates having charges Q and 2 Bok Ad where A is the area
+of each plate and d is the separation between the plates. How will the energy stored in a fully charged capacitor change when the separation between the plates is doubled and a dielectric medium of dielectric constant 4 is introduced between the plates?
+
+
+97. (a) Compare the individual dipole moment and the specimen dipole moment for HzO
+molecule and Oz molecule when placed in
+
+(i) absence of external electric field
+
+(ii) presence of external electric field.
+
+Justify your answer.
+
+(b) Given two parallel conducting plates of area A and charge densities +o and -o. A
+dielectric slab of constant K and a conducting slab of thickness d each are inserted in
+between them as shown.
+
+(i) Find the potential difference between the plates.
+
+(ii) Plot E versus x graph, taking x = 0 at positive plate and x = 5d at negative plate.
+
+98. (a) A parallel plate capacitor is charged by a battery to a potential. The battery is
+disconnected and a dielectric slab is inserted to completely fill the space between the
+plates. How will (i) its capacitance, (ii) electric field between the plates, and (iii) energy
+stored in the capacitor be affected?
+
+Justify your answer giving necessary mathematical expressions for each case.
+
+(b) Sketch the pattern of electric field lines due to (i) a conducting sphere having negative
+charge in it, (ii) an electric dipole.
+
+99. If n similar small drops of mercury, each of capacity C, surface charge density o, energy E and potential V, combine to form a big drop, then calculate the capacity, surface charge density, energy and potential of the big drop.
+
+100. Three point charges of +2 uC, -3 uC and -3 UC are kept at the vertices A, B and C
+respectively of an equilateral triangle of side 20 cm as shown in the figure. What should be
+the sign and magnitude of the charge to be placed at the mid-point (M) of side BC so that
+the charge at A remains in equilibrium?
+
+
+101. Given a uniform electric field = = 5x 10^3 i N/C, find the flux of this field through a square of 10 cm on a side whose plane is parallel to the y-z plane. What would be the flux through the same square if the plane makes a 3 0 angle with the x-axis?
+
+102. Two small identical electrical dipoles AB and CD, each of dipole moment p are kept at an angle of 120° as shown in the figure. What is the resultant dipole moment of this
+combination? If this system is subjected to electric field “) directed along +X direction,
+what will be the magnitude and direction of the torque acting on this?
+
+103. An electric dipole consists of charges +2 .0 x 10^-8C separated by a distance of 2 .0 x 10^-3 m. It is placed near a long line charge of linear charge density 4.0 x 10^-4 C/m as shown in the figure, such that the negative charge is at a distance of 2 .0 cm from the line charge. Find the force acting on the dipole.
+
+104. In a uniform electrostatic field of strength 5 x 10^5 N/C, what will be the potential difference between the points A and C as shown? It is given that AC = 5cm and BC = 3cm.
+
+105. The equivalent capacitance of the combination between A and B in the given figure is 4 UF.
+(i) Calculate capacitance of the capacitor C.
+
+(ii) Calculate charge on each capacitor if a 12 V battery is connected across terminals A
+and B.
+(iii) What will be the potential drop across each capacitor?
+
+106. Four capacitors are connected as shown in the figure. Calculate the equivalent capacitance between the points X and Y.
+
+107. Calculate the equivalent capacitance between the points A and B of the circuit given below. If a battery of emf 10 V is connected between the points A and B, calculate the total charge in the circuit.
+
+108. Three identical capacitors C1, C2 and Cs of capacitance 6 UF each are connected to a 12 V battery as shown.
+Find (i) charge on each capacitor. (ii) equivalent capacitance of the network and (iii) energy stored in the network of capacitors.
+
+109. Find the potential at A and C in the following circuit.
+
+110. The variation of electric potential with distance from a fixed point is shown in the figure.
+What is the electric field at (i) x = 3 and (ii) x = 5?
